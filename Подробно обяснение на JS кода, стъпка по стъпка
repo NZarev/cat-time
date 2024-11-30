@@ -6,4 +6,5 @@
     evening = 18 → Определя началото на вечерта (6 PM).
     wakeupTime, lunchTime, partyTime, napTime → Задават специфични моменти от деня за събития като събуждане, обяд и т.н.
   DOM елементи:
-
+    message и lolcat: Това са елементи в HTML, които ще показват съобщения и изображения.
+    partyTimeButton, napTimeSelector, lunchTimeSelector, wakeUpTimeSelector: HTML елементи, които позволяват взаимодействие с потребителя (бутон за "парти" и падащи менюта за избор на час).
