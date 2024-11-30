@@ -9,3 +9,5 @@
     message и lolcat: Това са елементи в HTML, които ще показват съобщения и изображения.
     partyTimeButton, napTimeSelector, lunchTimeSelector, wakeUpTimeSelector: HTML елементи, които позволяват взаимодействие с потребителя (бутон за "парти" и падащи менюта за избор на час).
 2. Събития за потребителски избори
+  lunchEvent, wakeUpEvent, napEvent:
+    Функции, които актуализират съответните времеви променливи (lunchTime, wakeupTime, napTime) според избора на потребителя.
