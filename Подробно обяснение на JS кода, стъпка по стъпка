@@ -30,4 +30,5 @@
     "Good afternoon!" (ако е след обяд, но преди вечер).
     "Hello there!" (вечерно съобщение).
 Резултатите се извеждат чрез:
-
+  message.innerText = messageText;: Слага съобщението в HTML елемента.
+  lolcat.src = image;: Задава URL на изображението.
