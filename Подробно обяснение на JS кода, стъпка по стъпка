@@ -30,7 +30,9 @@
     "Good afternoon!" (ако е след обяд, но преди вечер).
     "Hello there!" (вечерно съобщение).
 Резултатите се извеждат чрез:
-5. Текущ час
-
   message.innerText = messageText;: Слага съобщението в HTML елемента.
   lolcat.src = image;: Задава URL на изображението.
+5. Текущ час
+Функцията showCurrentTime:
+
+
