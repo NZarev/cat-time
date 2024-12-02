@@ -44,5 +44,6 @@
 7. Слушатели за събития
   partyTimeButton.addEventListener('click', partyEvent): Задава действие за "парти бутон".
   napTimeSelector.addEventListener('change', napEvent) и подобни:
+Свързват съответните падащи менюта със събития за промяна.
 
 
