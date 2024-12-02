@@ -42,5 +42,6 @@
   updateClock: Изчислява текущия час и обновява елемента clock.
   Използва се setInterval, за да извиква updateClock всяка секунда.
 7. Слушатели за събития
+partyTimeButton.addEventListener('click', partyEvent): Задава действие за "парти бутон".
 
 
