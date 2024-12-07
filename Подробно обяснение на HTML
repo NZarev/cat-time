@@ -19,6 +19,7 @@
 Секцията предлага интерактивни селектори за задаване на:
   Време за събуждане (wakeUpTimeSelector)
   Време за обяд (lunchTimeSelector)
+Време за дремене (napTimeSelector)
 
 
 
