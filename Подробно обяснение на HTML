@@ -28,6 +28,8 @@
 6. Бутон "Party Time!"
   <button>: Когато се кликне, активира "Парти режим" чрез JavaScript събитие.
   id="partyTimeButton": Свързва бутона с JavaScript функция
+7. Връзка към JavaScript
+
 
 
 
